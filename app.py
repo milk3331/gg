@@ -34,7 +34,7 @@ from aiogram.types import (
 # НАСТРОЙКИ
 # ============================================================
 
-BOT_TOKEN = "8806340628:AAFdpnhaARyF6bDszy4IzOnavC27j"
+BOT_TOKEN = "8806340628:AAFdpnhaARyF6bDszy4IzOnavC27jOI2kEY"
 
 OFFER_DURATION_HOURS = 6
 PARALLEL = True
